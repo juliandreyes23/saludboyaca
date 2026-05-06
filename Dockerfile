@@ -1,4 +1,4 @@
-FROM julxreyes/saludboyaca:latest
+FROM julxreyes/saludboyaca-app:latest
 
 ENV JAVA_TOOL_OPTIONS="-Xms64m -Xmx200m"
 
